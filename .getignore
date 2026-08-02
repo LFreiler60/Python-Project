@@ -1,0 +1,15 @@
+# Secrets
+.env
+
+# Virtual environment
+.venv/
+
+# Python-generated files
+__pycache__/
+*.pyc
+
+# Testing-generated files
+.pytest_cache/
+
+# macOS-generated files
+.DS_Store
